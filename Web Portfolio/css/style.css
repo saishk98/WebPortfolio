@@ -339,7 +339,7 @@ nav ul li a:hover {
   }
 
 .me {
-	max-width: 100%;
+	max-width: 37.5%;
 	height: auto;
 	-ms-interpolation-mode: bicubic;
 	display: inline-block;
